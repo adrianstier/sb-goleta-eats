@@ -13,6 +13,7 @@ Live site: https://adrianstier.github.io/sb-goleta-eats/
 - 20 more places were added on 2026-11-10: winners of the Independent's Best of Santa Barbara reader vote from 2022 to 2026 that were missing and are listed as open on Google Maps.
 - Each place has a recognition score built on 2026-11-10 from Michelin distinctions, critics' guides (Eater LA, The Infatuation, Time Out, Sunset, Tasting Table, Afar, Visit Santa Barbara) and the Independent's 2022 to 2026 reader vote. The 15 highest, plus a few personal favorites, are badged "Our pick" and places are ordered by this score within each type.
 - Ten coffee shops and bakeries were added on 2026-11-10 after a survey of Google Maps listings and local coffee guides (Visit Santa Barbara, Downtown Santa Barbara, Edhat, My Coffee Explorer).
+- Ten Chinese restaurants were added on 2026-11-10 after a survey of Google Maps listings, the Independent's reader vote and its restaurant coverage. A Chinese collection was added.
 - Thirteen burger places were added on 2026-11-10 after a survey of Google Maps listings, Visit Santa Barbara's best burgers guide, the Independent's reader vote and its Burger Week coverage. A Burgers collection was added and Third Window Brewing became an Our pick.
 - Twelve Mexican restaurants and taquerías were added on 2026-11-10 after a survey of Google Maps listings and taco guides (Visit Santa Barbara, Downtown Santa Barbara, L.A. Taco, Alta).
 - Pink pins mark new (2024–2026) places getting a lot of local and national coverage.
