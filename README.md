@@ -12,6 +12,7 @@ Live site: https://adrianstier.github.io/sb-goleta-eats/
 - Bibi Ji is held back as closed (Siteline, 2026-09-03) even though its Google listing still shows hours.
 - 20 more places were added on 2026-11-10: winners of the Independent's Best of Santa Barbara reader vote from 2022 to 2026 that were missing and are listed as open on Google Maps.
 - Each place has a recognition score built on 2026-11-10 from Michelin distinctions, critics' guides (Eater LA, The Infatuation, Time Out, Sunset, Tasting Table, Afar, Visit Santa Barbara) and the Independent's 2022 to 2026 reader vote. The 15 highest, plus a few personal favorites, are badged "Our pick" and places are ordered by this score within each type.
+- Ten coffee shops and bakeries were added on 2026-11-10 after a survey of Google Maps listings and local coffee guides (Visit Santa Barbara, Downtown Santa Barbara, Edhat, My Coffee Explorer).
 - Pink pins mark new (2024–2026) places getting a lot of local and national coverage.
 - Map tiles and data © OpenStreetMap contributors; the map library is Leaflet, loaded from cdnjs.
 - Saved places are kept in your own browser and are not sent anywhere.
