@@ -11,6 +11,6 @@ Live site: https://adrianstier.github.io/sb-goleta-eats/
 - Map tiles and data © OpenStreetMap contributors; the map library is Leaflet, loaded from cdnjs.
 - Saved places are kept in your own browser and are not sent anywhere.
 - One photo (Blenders in the Grass) is by afagen on Flickr, used under CC BY-NC-SA 2.0, cropped and resized.
-- Other photos come from each restaurant's own website or its official listing and remain the property of their owners. Every photo is credited and linked to its source. If you own one and want it removed, open an issue and it will be taken down.
+- Other photos come from each restaurant's own website, its Google Maps listing, or local news coverage (Santa Barbara Independent) and remain the property of their owners. Every photo is credited and linked to its source. If you own one and want it removed, open an issue and it will be taken down.
 
 The page is a static `index.html` plus resized photos in `img/`, with no build step.
