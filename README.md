@@ -11,7 +11,7 @@ Live site: https://adrianstier.github.io/sb-goleta-eats/
 - Hours, Google ratings and open status for every place were read from Google Maps on 2026-11-10. Reservation links come from each place's own website; the patio tag comes from OpenStreetMap and is incomplete.
 - Bibi Ji is held back as closed (Siteline, 2026-09-03) even though its Google listing still shows hours.
 - 20 more places were added on 2026-11-10: winners of the Independent's Best of Santa Barbara reader vote from 2022 to 2026 that were missing and are listed as open on Google Maps.
-- Each place has a recognition score built on 2026-11-10 from Michelin distinctions, critics' guides (Eater LA, The Infatuation, Time Out, Sunset, Tasting Table, Afar, Visit Santa Barbara) and the Independent's 2022 to 2026 reader vote. The 15 highest are badged "Big deal" and places are ordered by this score within each type.
+- Each place has a recognition score built on 2026-11-10 from Michelin distinctions, critics' guides (Eater LA, The Infatuation, Time Out, Sunset, Tasting Table, Afar, Visit Santa Barbara) and the Independent's 2022 to 2026 reader vote. The 15 highest, plus a few personal favorites, are badged "Our pick" and places are ordered by this score within each type.
 - Pink pins mark new (2024–2026) places getting a lot of local and national coverage.
 - Map tiles and data © OpenStreetMap contributors; the map library is Leaflet, loaded from cdnjs.
 - Saved places are kept in your own browser and are not sent anywhere.
