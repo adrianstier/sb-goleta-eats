@@ -7,6 +7,7 @@ A photo guide, with a street map, to the restaurants, bars, coffee and breakfast
 Live site: https://adrianstier.github.io/sb-goleta-eats/
 
 - Places were checked for closures on 2026-11-09 against local news and current listings.
+- 42 more places were added on 2026-11-10 from the Eater LA, Michelin Guide, Infatuation, Time Out, Independent Best of 2026 and Visit Santa Barbara lists; each was listed as open on Google Maps that day.
 - Pink pins mark new (2024–2026) places getting a lot of local and national coverage.
 - Map tiles and data © OpenStreetMap contributors; the map library is Leaflet, loaded from cdnjs.
 - Saved places are kept in your own browser and are not sent anywhere.
