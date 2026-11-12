@@ -1,6 +1,6 @@
 # Santa Barbara & Goleta Eats
 
-*Last updated: 2026-11-10*
+*Last updated: 2026-11-11*
 
 A photo guide, with a street map, to the restaurants, bars, coffee and breakfast spots we recommend around Santa Barbara, the Funk Zone, Montecito and Goleta.
 
@@ -26,5 +26,6 @@ Live site: https://adrianstier.github.io/sb-goleta-eats/
 - Saved places are kept in your own browser and are not sent anywhere.
 - One photo (Blenders in the Grass) is by afagen on Flickr, used under CC BY-NC-SA 2.0, cropped and resized.
 - Other photos come from each restaurant's own website, its Google Maps listing, or local news coverage (Santa Barbara Independent) and remain the property of their owners. Every photo is credited and linked to its source. If you own one and want it removed, open an issue and it will be taken down.
+- Critic quotes were added on 2026-11-11 for 56 places: 85 short excerpts from signed reviews by the Michelin Guide's inspectors, The Infatuation, Eater LA and Matt Kettmann of the Santa Barbara Independent, each checked word for word against its source and linked to it. A "Critic reviewed" collection lists them.
 
 The page is a static `index.html` plus resized photos in `img/`, with no build step.
